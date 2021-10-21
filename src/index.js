@@ -1,6 +1,3 @@
-# Created By SandBox
-
-```js
 import { StrictMode } from "react";
 import ReactDOM from "react-dom";
 
@@ -13,4 +10,3 @@ ReactDOM.render(
   </StrictMode>,
   rootElement
 );
-```

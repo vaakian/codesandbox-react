@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.router-controller {
+  margin: 10px 5px;
+}
+.router-link {
+  padding: 5px 10px;
+}
+.router-active {
+  background: #eee;
+  border-radius: 5px;
+}
+.router-view {
+  border: 1px solid salmon;
+  min-height: 150px;
+}
